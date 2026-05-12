@@ -1,0 +1,1 @@
+Intente instalar y configurar todo lo necesario para poder utilizar autenticación mediante JWT en la siguiente plantilla de solución y conseguir que alguno de los 2 usuarios registrados en el MockAppDbContext logre autenticarse y consumir el endpoint protegido de weatherforecast.
